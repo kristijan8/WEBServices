@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class WebServicesApplication {
 
 	public static void main(String[] args) {
+		//Main method to run the application
 		SpringApplication.run(WebServicesApplication.class, args);
 	}
 
