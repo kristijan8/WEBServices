@@ -69,11 +69,11 @@ public class ObjectFactory {
     }
 
     /**
-     * Create an instance of {@link AddEmployeeRequest }
+     * Create an instance of {@link AddClubRequest }
      * 
      */
-    public AddEmployeeRequest createAddEmployeeRequest() {
-        return new AddEmployeeRequest();
+    public AddClubRequest createAddEmployeeRequest() {
+        return new AddClubRequest();
     }
 
     /**
